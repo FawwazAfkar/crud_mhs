@@ -1,5 +1,9 @@
 # CRUD Mahasiswa
 
+- Nama : Fawwaz Afkar Muzakky
+- NIM : H1D022067
+- Shift : C
+  
 ## Struktur
 
 - `src/app/service/api.service.ts`: Berisi layanan API untuk berkomunikasi dengan backend.
